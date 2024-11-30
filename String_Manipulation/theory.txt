@@ -1,0 +1,44 @@
+    1)Understanding how to access and manipulate strings.
+
+      Strings in Python are sequences of characters.
+      Index start at 0.
+      text = "Python"
+      print(text[0])  
+      print(text[-1])
+
+    2)Basic operations: concatenation, repetition, string methods (upper(), lower(), etc.).
+     
+      concatenation:Concatenation means combining two or more strings into a single string.
+                    result = string1 + string2
+                    first_name = "bhavana"
+                    last_name = "vas"
+                    full_name = first_name + " " + last_name
+                    print(full_name)
+      repetition:You can repeat strings using the * operator.
+                 greeting = "Hello! "
+                 repeated = greeting * 3
+                 print(repeated)
+      upper(): Converts all characters in the string to uppercase.
+      lower(): Converts all characters in the string to lowercase.
+
+     3)String slicing.
+    
+       string by specifying a range of indices.
+       start: The starting index .
+       end: The ending index.
+       step: The range between index.
+
+       text = "Hello, World!"
+       print(text[0:5])  # 'Hello'
+       
+       text = "Hello, World!"
+       print(text[:5])     # 'Hello' 
+       print(text[7:])     # 'World!' 
+       print(text[:])      # 'Hello, World!'
+       
+       text = "Hello, World!"
+       print(text[-6:-1])  # 'World' 
+
+       text = "Hello, World!"
+       print(text[::2])    # 'Hlo ol!' 
+       print(text[::-1])   # '!dlroW ,olleH'

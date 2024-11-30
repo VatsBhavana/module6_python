@@ -1,0 +1,34 @@
+   1)Understanding Python’s PEP 8 guidelines.
+ 
+     Readabilty:Make your code easier to read for other.
+     Consistency:Helps teams work together by following the same rule.
+     Use 4 spaces for each level of indentation.
+     Use a # for single-line comments and triple quotes for docstrings.
+     Remove unnecessary spaces at the end of a line.
+     Each file/module has its own namespace.Import with `import module_name'.
+     Each word starts with an uppercase letter, with no spaces or underscores. Used for class names.
+     Examples: MyClass
+	      StudentData
+
+    2)Indentation, comments, and naming conventions in Python.
+      
+      Indentation:-Indentation means adding spaces at the beginning of a line to show the code structure.
+                   Python relies on indentation to define blocks of code. Without proper indentation, your code won’t work.
+
+      comments:-Comments are notes in your code that Python ignores when running the program. They help explain what your code does.
+                single line comment use a # symbol.triple quotes for docstrings.
+
+      Naming Conventions:-Naming conventions are rules for naming variables, functions, classes, and constants to make your code more readable.
+                          Consistent names make your code easier to understand and maintain.
+                          Must start with a letter or an underscore (_).
+                          Cannot start with a number.
+                          Can contain only letters, numbers, and underscores (A-Z, a-z, 0-9, _).
+
+    3)Writing readable and maintainable code.
+      
+     Use 4-space indentation and descriptive names.
+     Use Comments: Explain complex logic briefly.
+     Keep Code Modular: Use functions and classes for reusability.
+     Handle Errors: Use try-except for safe execution.
+     Use Constants: Store fixed values in uppercase variables.
+     Readable Outputs: Use f-strings for clarity.
