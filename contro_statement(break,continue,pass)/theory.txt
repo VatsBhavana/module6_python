@@ -1,0 +1,20 @@
+     1)Understanding the role of break, continue, and pass in Python loops
+
+       The break statement is used to exit the loop immediately.
+       for num in range(10):
+         if num == 5: # Exit the loop when num equals 5
+         break  
+         print(num)
+ 
+     The continue statement skips the current iteration and moves to the next iteration of the loop.
+     for num in range(10):
+        if num % 2 == 0:
+        continue  # Skip even numbers
+        print(num)
+
+     Pass is Acts as a placeholder; does nothing when executed.
+     for num in range(5):
+       if num == 3:
+           pass  # Placeholder for code
+      else:
+          print(num)

@@ -1,0 +1,21 @@
+       1)Understanding data types: integers, floats, strings, lists, tuples, dictionaries, sets
+
+         Data types represent the kind of value a variable holds. 
+         Integer:Whole numbers, positive or negative.  
+         Float: Numbers with decimal points.  
+         String:Sequence of characters . 
+         List:list is a collection data type which is contain similar and dis-similar element at single location.
+              list is a orderable,sequence,indexable,mutable(changeble) data type.
+
+       2) Python variables and memory allocation.
+ 
+          In Python, a variable doesn’t store the actual value directly. Instead, it points to (or references) a location in memory where the value is stored.
+          Variables store data values and reference memory locations dynamically allocated during runtime.
+
+       3)Python operators: arithmetic, comparison, logical, bitwise.
+
+         Arithmatic operator:+,-,*,/,//,%,**.
+         Comparison operator:==,!=,>,<,>=,<=.
+         Logical operator:and or not.
+         Bitwise operator:&,|,^,~.
+        

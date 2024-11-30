@@ -1,0 +1,21 @@
+   1)Introduction to for and while loops.
+
+       for loop :Sequence controller loop
+
+	syntax :
+		for iterator in sequence :
+		statment
+		
+		range(start,stop,step)
+       start :starting number
+       stop: -1 ending
+       step : increment
+
+       while loop : while loop is a entry contolled loop while loop check condition first and then execute 
+       syntax:
+		initlization
+		while condition
+		statement
+		updation
+
+    2)How loops work in Python.

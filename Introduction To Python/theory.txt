@@ -1,0 +1,48 @@
+     1)	Introduction to Python and its Features (simple, high-level, interpreted language).
+
+         Python is widely used general-purpose high-level programming language. It was initially designed by Guido van Rossum in 1990 and
+         developed by python software foundation.
+         Feature: -  
+                 Simple and easy to learn: -
+                            Clean, clear syntax. Very few keyword.
+                 Hight-level: -
+                             Python is suitable for small-scale projects as well as enterprise-level application.
+                 Interpreted language:-
+                             Python is an interpreted object oriented high level programming language with dynamic semantics.
+
+
+     2)History and evolution of Python.
+         
+       It is mainly developed for emphasis on code readability and its syntax allows programmer to express concept in fewer line of code.
+       Reduce development time,code is 2-10x shorter than c,c++,java.
+       1991=python
+       2000=python 2
+       2008=python 3
+       2024=python 3.13.0   
+      
+     3)Advantages of using Python over other programming languages.
+       
+       Python supports modules and packages which encourages program modularity and code reuse.
+       Improved program maintenance, code is extremely readable.
+       Works Everywhere like as on Windows, macOS, Linux, and even mobile devices.
+       Variable do not need declaration.
+     
+     4)Installing Python and setting up the development environment (Anaconda, PyCharm, or VSCode).
+      
+      Visual Studio Code (VS Code)
+      Download VS Code:
+      Visit the VS Code website and download it for your OS.
+      Install Python Extension:
+      Open VS Code.
+      Go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X).
+      Search for "Python" and install the official extension by Microsoft.
+      Set up Python Interpreter:
+      Open any Python file or create a new one.
+      Click on the interpreter selection in the bottom-left corner and choose your installed Python version. 
+
+     5)Writing and executing your first Python program.
+
+       Open an text editor like as vscode.
+       print("Hello World")
+       Save the file with extension .py
+       
