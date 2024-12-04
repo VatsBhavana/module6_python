@@ -6,9 +6,7 @@
      Use a # for single-line comments and triple quotes for docstrings.
      Remove unnecessary spaces at the end of a line.
      Each file/module has its own namespace.Import with `import module_name'.
-     Each word starts with an uppercase letter, with no spaces or underscores. Used for class names.
-     Examples: MyClass
-	      StudentData
+     
 
     2)Indentation, comments, and naming conventions in Python.
       
