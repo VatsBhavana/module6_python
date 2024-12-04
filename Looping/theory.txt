@@ -18,4 +18,4 @@
 		statement
 		updation
 
-    2)How loops work in Python.
+    
