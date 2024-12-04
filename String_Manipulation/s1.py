@@ -9,7 +9,7 @@ print("First 14 characters:", str[:14])
 
 print("\n2. Using Negative Index:")
 print("Last 5 characters:", str[-5:])         
-print("All but the last 5 characters:", str[:-5])      
+print("first 5 characters:", str[:-5])      
 
 print("\n3. Reverse the String:")
 print("Reversed String:", str[::-1])        
