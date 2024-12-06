@@ -1,5 +1,6 @@
 
-#votting 
+#: How does the Python code structure work?
+
 age=int("enter the age:")
 if age>=18:
     print("you are eligible for votting.")
