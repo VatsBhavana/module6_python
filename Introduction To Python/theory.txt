@@ -1,6 +1,6 @@
      1)	Introduction to Python and its Features (simple, high-level, interpreted language).
 
-         Python is widely used general-purpose high-level programming language. It was initially designed by Guido van Rossum in 1990 and
+         Python is widely used general-purpose high-level programming language. It was initially designed by Guido van Rossum in 1991 and
          developed by python software foundation.
          Feature: -  
                  Simple and easy to learn: -
